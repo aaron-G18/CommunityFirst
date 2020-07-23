@@ -6,6 +6,10 @@ Our Community First website is a way to discover how to give back, by providing 
 
 [Community First](https://communityfirst.herokuapp.com)
 
+![Screenshot of home page](https://user-images.githubusercontent.com/58674283/88347954-f7d75580-cd00-11ea-968f-bfa472eac7c4.png?raw=true "Home page")
+
+![Screenshot of create event page](https://user-images.githubusercontent.com/58674283/88347958-fc9c0980-cd00-11ea-9f2e-7b539d1a80af.png?raw=true "Create event page")
+
 ## Built With
 
 - [Heroku](https://www.heroku.com/) - platform to deploy live websites
